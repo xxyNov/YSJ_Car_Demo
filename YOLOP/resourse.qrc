@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>something/icons/1699095974393.jpg</file>
+  </qresource>
+  <qresource prefix="images">
+    <file>something/images/1699154095251.jpg</file>
+    <file>something/images/1699154109798.jpg</file>
+    <file>something/images/1699153932865.jpg</file>
+    <file>something/images/1699100169021.jpg</file>
+    <file>something/images/b745db4445ab55a887efd3dc89c1999.jpg</file>
+    <file>something/images/1699100050511.jpg</file>
+    <file>something/images/98f4f1b8ada35c265bbe78440d00b00.jpg</file>
+    <file>something/images/63048b7a55319cbf2be22e4c4abc7ed.jpg</file>
+  </qresource>
+</RCC>
